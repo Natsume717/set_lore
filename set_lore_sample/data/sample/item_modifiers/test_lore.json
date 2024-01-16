@@ -1,0 +1,27 @@
+[
+    {
+      "function": "minecraft:set_lore",
+      "lore": [
+        {
+          "text": "俺が水中採掘マンだ！",
+          "color": "green",
+          "bold": true,
+          "italic": true,
+          "underlined": false,
+          "strikethrough": false,
+          "obfuscated": false
+        },
+        {
+          "text": "よろしくな！",
+          "color": "blue",
+          "bold": true,
+          "italic": true,
+          "underlined": false,
+          "strikethrough": false,
+          "obfuscated": false
+        }
+      ],
+      "replace": true
+    }
+  ]
+  
